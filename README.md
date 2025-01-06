@@ -1,3 +1,5 @@
+open ai config: create a .env.local file with the api key named OPENAI_API_KEY
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
